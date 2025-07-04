@@ -19,14 +19,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/laravel.png" alt="Laravel" style="padding-right:10px;" width="26px" />
-<img align="left" alt="React Native" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img src="https://seeklogo.com/images/E/expo-go-logo-01BB2BCFC6-seeklogo.com.png" alt="Expo" style="padding-right:10px;" width="26px" />
+<img src="https://images.seeklogo.com/logo-png/45/1/expo-go-app-logo-png_seeklogo-457073.png" alt="Expo" style="padding-right:10px;" width="26px" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
 <br />
 <br />
