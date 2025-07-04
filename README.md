@@ -8,8 +8,7 @@
 
 ### Connect with me:
 
-[![Twitter Light](https://cdn.simpleicons.org/twitter/1DA1F2)](https://twitter.com/donnn_i#gh-light-mode-only)
-[![Twitter Dark](https://cdn.simpleicons.org/twitter/FFFFFF)](https://twitter.com/donnn_i#gh-dark-mode-only)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/donnn_i)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
@@ -19,9 +18,9 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" style="padding-right:10px;" />
+<img align="left" src="https://img.icons8.com/ios-filled/50/FA5252/laravel.png" alt="Laravel" style="padding-right:10px;" width="26px" />
 <img align="left" alt="React Native" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Expo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Icon.svg" style="padding-right:10px;" />
+<img src="https://seeklogo.com/images/E/expo-go-logo-01BB2BCFC6-seeklogo.com.png" alt="Expo" style="padding-right:10px;" width="26px" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
